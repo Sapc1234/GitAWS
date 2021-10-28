@@ -36,7 +36,7 @@ public class Base
 		//String browserName = System.getProperty("browser");
 		// mvn test -Dbrowser=chrome;
 		System.out.println(browserName);
-
+		System.out.println(browserName);
 		/* if(browserName.equals("chrome"))
 			 
 		 {

@@ -30,6 +30,7 @@ public class vTittle extends Base
 		
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated to home Page");
+		System.out.println("hello");
 	}
 
 	@Test
