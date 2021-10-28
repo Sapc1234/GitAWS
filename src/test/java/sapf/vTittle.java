@@ -41,6 +41,8 @@ public class vTittle extends Base
 		Assert.assertTrue(lpage.Text().isDisplayed());
 		Assert.assertEquals(lpage.Text().getText(), "Create a Page for a celebrity, band or business.");
 		log.info("successfully displayed text message");
+		
+		System.out.println("successfully displayed text message");
 
 	}
 
