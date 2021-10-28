@@ -38,6 +38,12 @@ public class Base
 		System.out.println(browserName);
 		System.out.println(browserName);
 		System.out.println(browserName);
+		
+		System.out.println("sapc");
+		
+		System.out.println("Acpc");
+		
+		System.out.println(browserName);
 		/* if(browserName.equals("chrome"))
 			 
 		 {
